@@ -75,11 +75,11 @@ chrome.security.protocol.engage({
 ## 🛡️ Security Specifications
 ```diff
 +======================================================================+
-|  **Protocol Layer**  |  **Specification**  |
+|     Protocol Layer      |          Specification        |
 |------------------+-------------------|
-|  • Encryption    | • Quantum-Entangled SHA-512   |
-|  • Auth Method   | • 11-Dimensional Biometric   |
-|  • Intrusion Prevention | • Neural Firewall v9.4  |
-|  • UI Protection  | • Holographic Shielding  |
+|      • Encryption       | • Quantum-Entangled SHA-512   |
+|      • Auth Method      |  • 11-Dimensional Biometric   |
+|  • Intrusion Prevention |    • Neural Firewall v9.4     |
+|      • UI Protection    |    • Holographic Shielding    |
 +======================================================================+
 ```
