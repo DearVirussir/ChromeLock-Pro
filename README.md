@@ -3,7 +3,7 @@
 **"Your digital fortress in the quantum age"**  
 *Developed by Syed Muhammad Khubaib Shah (aka **Dear Virus**)*
 
-![ChromeLock Pro Banner](https://i.ibb.co/hJ0BKczX/f older3.jpg)
+![ChromeLock Pro Banner](https://i.ibb.co/xqQrw6NW/screencapture-file-D-My-Projects-chrome-lock-lock-html-2025-06-02-13-51-37.jpg)
 
 ## 🌌 Next-Gen Browser Protection
 
@@ -73,13 +73,22 @@ chrome.security.protocol.engage({
 4. Access granted to spacetime continuum
 ```
 ## 🛡️ Security Specifications
-```diff
-+======================================================================+
-|     Protocol Layer      |          Specification        |
-|------------------+-------------------|
-|      • Encryption       | • Quantum-Entangled SHA-512   |
-|      • Auth Method      |  • 11-Dimensional Biometric   |
-|  • Intrusion Prevention |    • Neural Firewall v9.4     |
-|      • UI Protection    |    • Holographic Shielding    |
-+======================================================================+
-```
+
+| Protocol Layer       | Specification               |
+|----------------------|-----------------------------|
+| Encryption           | Quantum-Entangled SHA-512   |
+| Auth Method          | 11-Dimensional Biometric    |
+| Intrusion Prevention | Neural Firewall v9.4        |
+| UI Protection        | Holographic Shielding       |
+
+## 🌐 Connect With the Developer
+
+[![Telegram](https://img.shields.io/badge/Telegram-@dear__virus-blue?logo=telegram)](https://t.me/dear_virus)
+[![Contact](https://img.shields.io/badge/Bio_Signal-%2B92%20370%209213915-green?logo=whatsapp)](tel:+923709213915)
+
+**Warning:** This technology is protected by intergalactic copyright laws. Unauthorized replication may result in spacetime anomalies.
+
+---
+
+"Securing browsers across the multiverse since 2042"  
+© 2045 Dear Virus Technologies | All realities reserved
