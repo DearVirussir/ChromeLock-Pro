@@ -3,7 +3,7 @@
 **"Your digital fortress in the quantum age"**  
 *Developed by Syed Muhammad Khubaib Shah (aka **Dear Virus**)*
 
-![ChromeLock Pro Banner](https://i.ibb.co/hJ0BKczX/folder3.jpg)
+![ChromeLock Pro Banner](https://i.ibb.co/hJ0BKczX/f older3.jpg)
 
 ## 🌌 Next-Gen Browser Protection
 
@@ -56,3 +56,30 @@ git clone https://github.com/DearVirus/ChromeLock-Pro.git
 4. ### Initialize Quantum Lock
    Click the extension icon
    Set your security credentials
+##⚡ Usage Protocols
+```javascript```
+```
+// Basic Security Engagement
+chrome.security.protocol.engage({
+    lockType: "quantum",
+    authMatrix: "bio+neural",
+    temporalSettings: "adaptive"
+});
+
+// Sample Lock Sequence
+1. Click extension icon
+2. Enter security credentials
+3. Verify through quantum entanglement
+4. Access granted to spacetime continuum
+```
+## 🛡️ Security Specifications
+```diff
++======================================================================+
+|  **Protocol Layer**  |  **Specification**  |
+|------------------+-------------------|
+|  • Encryption    | • Quantum-Entangled SHA-512   |
+|  • Auth Method   | • 11-Dimensional Biometric   |
+|  • Intrusion Prevention | • Neural Firewall v9.4  |
+|  • UI Protection  | • Holographic Shielding  |
++======================================================================+
+```
